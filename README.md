@@ -1,1 +1,1 @@
-![Tom0603's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tom0603&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tom0603&theme=tokyonight)
